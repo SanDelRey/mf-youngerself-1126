@@ -1,4 +1,4 @@
-// entry: one line to my younger self, the turn sits at the end: the door was never locked.
+// entry: one line to my younger self, the turn sits at the end: the doors were never locked, only the handle was stiff.
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const LINE =
